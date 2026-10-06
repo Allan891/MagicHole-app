@@ -4,8 +4,8 @@ MagicHole is a golf app that tracks a wide range of performance metrics, so you
 can see how you really play and where to improve. Thousands of golf courses are
 included from the start.
 
-- 📊 Many metrics, one place: follow your game in detail
-- 🏌️ Thousands of courses: find yours and start tracking
+- 📊 Many metrics, one place: follow your game in detail.
+- 🏌️ Thousands of courses: find yours and start tracking.
 
 
 # Welcome to your Expo app 👋
